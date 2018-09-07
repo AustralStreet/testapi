@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+"""
+作者：Clover
+"""
 import yagmail
 
 #链接邮箱服务器
